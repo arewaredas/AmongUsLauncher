@@ -1,2 +1,0 @@
-# AmongUsLauncher
-Among Us Launcher
