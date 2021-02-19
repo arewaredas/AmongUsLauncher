@@ -1,0 +1,4 @@
+Among Us Launcher'ı çalıştırmak için;
+Amnong Us Launcher klasörünün içinde
+bin/Debug/Among Us Launcher.exe'yi çalıştırın.
+Programı başka bir yere taşımayın ancak kısayol oluşturabilirsiniz
